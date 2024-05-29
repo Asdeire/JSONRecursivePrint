@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name": "Example Corp",
+    "address": {
+      "street": "123 Example St",
+      "city": "Example City",
+      "country": "Exampleland"
+    },
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Smith",
+        "position": "CEO",
+        "contact": {
+          "email": "john.smith@example.com",
+          "phone": "123-456-7890"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "position": "CTO",
+        "contact": {
+          "email": "jane.doe@example.com",
+          "phone": "123-456-7891"
+        }
+      }
+    ],
+    "products": [
+      {
+        "id": "p1",
+        "name": "Product 1",
+        "price": 100
+      },
+      {
+        "id": "p2",
+        "name": "Product 2",
+        "price": 150
+      }
+    ]
+  }
+}
